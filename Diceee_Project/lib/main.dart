@@ -54,8 +54,6 @@ class _DicePageState extends State<DicePage> {
             child: FlatButton(
                 onPressed: (){
                   firstfuctionindart();
-
-
                 },
                 child: Image.asset('images/dice$picture2.png')),
           ),
